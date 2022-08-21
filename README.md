@@ -2,7 +2,7 @@
 
 It's nice to meet you. <br> My name is Muiz, I go by d3vd3511gn on the internet.
 
-** Note: `D3VD3511GN is the same as DEVDESIIGN` * it is pronounced as DEV DESIIGN * **
+**Note: `D3VD3511GN is the same as DEVDESIIGN` *it is pronounced as DEV DESIIGN***
 
 ---
 
