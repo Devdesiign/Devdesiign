@@ -40,8 +40,6 @@ I practice **Stoicism**, makes me understand the world better. 💯 - [Here's ho
 
 ![Devdesiign Top Languages Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=devdesiign)
 
-![Devdesiign Activity Graph](https://activity-graph.herokuapp.com/graph?username=devdesiign&theme=minimal)
-
 ---
 
 ### Contact Me 📲
