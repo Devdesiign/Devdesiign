@@ -30,6 +30,8 @@ I practice **Stoicism**, makes me understand the world better. 💯 - [Here's ho
 
 - Askr Website - [Live Version](https://devdesiign.github.io/Askr/) - [Source Code](https://github.com/Devdesiign/Askr)
 
+- Interface for Transl8 - [Live Version](https://devdesiign.github.io/Transl8/) - [Source Code](https://github.com/Devdesiign/Transl8)
+
 ---
 
 ### My Badges ❤
