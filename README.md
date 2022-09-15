@@ -36,8 +36,6 @@ I practice **Stoicism**, makes me understand the world better. 💯 - [Here's ho
 
 ![Devdesiign Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devdesiign&theme=vue)
 
-![Devdesiign Profile Trophy](https://github-profile-trophy.vercel.app/?username=devdesiign)
-
 ![Devdesiign Top Languages Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=devdesiign)
 
 ---
